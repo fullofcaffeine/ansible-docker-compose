@@ -1,10 +1,6 @@
-# ansible-fig
+# ansible-docker-compose
 
-An Ansible role for installing [Fig](http://www.fig.sh/).
-
-## Role Variables
-
-- `fig_version` - Fig version
+An Ansible role for installing [Docker Compose](http://www.fig.sh/).
 
 ## Example Playbook
 

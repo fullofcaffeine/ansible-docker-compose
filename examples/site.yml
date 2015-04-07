@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - { role: "azavea.fig" }
+    - { role: "ansible-docker-compose", compose_version: '1.1.0' }

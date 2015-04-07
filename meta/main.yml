@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Hector Castro
-  description: An Ansible role for installing Fig.
-  company: Azavea Inc.
+  author: Marcelo de Moraes Serpa
+  description: An Ansible role for installing Docker Compose.
+  company: FullOfCaffeine, LLC
   license: Apache
   min_ansible_version: 1.2
   platforms:
